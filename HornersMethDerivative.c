@@ -18,4 +18,5 @@ int main(int argc, char *argv[]){
     }
     printf("%f\n", pnomial);
     printf("%f\n", derivative);
+
 }
