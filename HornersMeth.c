@@ -12,4 +12,5 @@ int main(int argc, char *argv[]){
         i++;
     }
     printf("%f\n", polynom);
+
 }
