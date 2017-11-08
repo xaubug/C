@@ -24,4 +24,4 @@ int main() {
             printf("%.10g\n",sqroot(x, epsilon));
         }
     }
-}
+ }
